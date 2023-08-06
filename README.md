@@ -2,7 +2,7 @@
 A simple instruction-level debugger that allows the user to debug a program interactively at the assembly instruction level (on linux, amd64).
 
 Implemented using the [ptrace](https://man7.org/linux/man-pages/man2/ptrace.2.html) interface.
-Dissasembly done using the [capstone](http://www.capstone-engine.org) library.
+Disassembly done using the [capstone](http://www.capstone-engine.org) library.
 
 To compile, use the following command:
 
